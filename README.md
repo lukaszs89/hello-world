@@ -1,2 +1,4 @@
 # hello-world
-my first project 
+my project 
+Hi I`m Luke
+I like cook
